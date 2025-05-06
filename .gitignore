@@ -164,4 +164,5 @@ generated/
 wandb/
 reformatted/
 data/
+data_input/
 outputs/
